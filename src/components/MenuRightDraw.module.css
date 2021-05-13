@@ -1,0 +1,9 @@
+.menuRight{
+    display: flex;
+}
+
+.ant-drawer-body {
+    background-color: #5340ff;
+    color: #fff;
+    height: calc(100vh - 55px);
+  }
